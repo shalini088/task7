@@ -1,2 +1,1 @@
-# task7
-Resume Building App (Dynamic)
+# resume_sv

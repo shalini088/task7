@@ -24,7 +24,7 @@ fetch("data.json")
 .the(function(response){
   return response.json();
 })
-.then(function(ind)){
+.then(function(ind){
   console.log(ind);
   profile(ind.basics);
   skill(ind.skills)
